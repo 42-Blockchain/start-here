@@ -1,15 +1,5 @@
 # start-here
 start-here resource list for people falling in the crypto rabbit-hole
-
-## Genesis
-
-We've started in 2018 with the goal of adding blockchain project in 42 holly graph and helping peers meet and share their passion. We had a lot of respect for what 42ai have done and wanted to build the 42ai of crypto.
-
-Some events were recorded and are available here: https://www.youtube.com/channel/UCq8m9yakyA5b6ZlyWtEV2jA
-We also worked on different projects (btc wallet, bonding curve, solidity bootcamp) but nothing was release because it wasn't finished and the people working on it were busy with other things.
-
-We are looking for new minds and fresh energy to help grow the blockchain community of 42, bonding together and level up in smart contract development. Feel free to consider this discord as yours and propose any event or post you want, as long as it's respectful and aligned with pedagogical, philosophical or technical goal of the association ! Don't hesitate to dm @Th0t_nz1g or me if you have questions!
-
 ## 📖 Some resources for those who are getting started in the space 📖
 
 ### Solidity 
@@ -41,3 +31,12 @@ I highly recommend you to build a account dedicated to crypto twitter, can be an
 @Fiskantes, @mattigags (vc)<br />
 @AdamScochran, @kyled116, @tomhschmidt, , @QwQiao (vc)<br />
 @jdetychey (eth france)<br />
+
+## Genesis
+
+We've started in 2018 with the goal of adding blockchain project in 42 holly graph and helping peers meet and share their passion. We had a lot of respect for what 42ai have done and wanted to build the 42ai of crypto.
+
+Some events were recorded and are available here: https://www.youtube.com/channel/UCq8m9yakyA5b6ZlyWtEV2jA
+We also worked on different projects (btc wallet, bonding curve, solidity bootcamp) but nothing was release because it wasn't finished and the people working on it were busy with other things.
+
+We are looking for new minds and fresh energy to help grow the blockchain community of 42, bonding together and level up in smart contract development. Feel free to consider this discord as yours and propose any event or post you want, as long as it's respectful and aligned with pedagogical, philosophical or technical goal of the association ! Don't hesitate to dm @Th0t_nz1g or me if you have questions!
